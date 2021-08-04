@@ -10,6 +10,8 @@
 
 - 🎮 ⚽  &nbsp; I like to play video games and football on my free time
 
+- ♂️  &nbsp; Pronouns: He/Him
+
 
 
 
