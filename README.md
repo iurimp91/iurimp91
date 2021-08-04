@@ -37,10 +37,10 @@
 <h2> :chart: &nbsp;GitHub Stats </h2>
 
 <a  href="https://github.com/iurimp91">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=iurimp91&theme=buefy&show_icons=true">
+  <img  height="170em"  src="https://github-readme-stats.vercel.app/api?username=iurimp91&theme=buefy&show_icons=true">
 </a>
 <a  href="https://github.com/iurimp91">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurimp91&theme=buefy&layout=compact">
+  <img  height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurimp91&theme=buefy&layout=compact">
 </a>
 
   
